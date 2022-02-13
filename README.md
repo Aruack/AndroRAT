@@ -30,7 +30,7 @@ AndroRAT requires Python (3.6-3.8) and JAVA 8 (or Android Studio)
 
 ## Installation
 ```
-git clone https://github.com/karma9874/AndroRAT.git
+git clone https://github.com/Aruack/AndroRAT.git
 pip install -r requirements.txt
 ```
 #### Note: 
@@ -138,8 +138,7 @@ In the sh shell there are some sub commands
 </p>
 ------------------------------------------------------------------------------------------------------------------------------
 
-## Supporters:
-[![rayep](https://avatars.githubusercontent.com/u/40718616?v=4&s=60)](https://github.com/rayep)
+
 
 ## TODO
 * ~~Ngrok support~~
