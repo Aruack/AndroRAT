@@ -31,7 +31,11 @@ AndroRAT requires Python (3.6-3.8) and JAVA 8 (or Android Studio)
 ## Installation
 ```
 git clone https://github.com/Aruack/AndroRAT.git
+
+```
+```
 pip install -r requirements.txt
+
 ```
 #### Note: 
 While cloning the repository using Git bash on Windows, you may get the following error:
